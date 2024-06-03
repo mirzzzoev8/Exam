@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "9pacPx5bIc4pLgD6PgbeNTwbeqanvxFFis5fBzXJNZA=",
+  "Source": "WebApi",
+  "BasePath": "_content/WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi\\wwwroot",
+      "Source": "WebApi",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Exam\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
